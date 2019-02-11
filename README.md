@@ -21,6 +21,7 @@ res = requests.post(url="http://localhost:8888",
 
 * [Python - Zeep](https://python-zeep.readthedocs.io/en/master/) 
 * [StackOverFlow - Soap Sample]
+* [StackOverFlow - Python request with session](https://stackoverflow.com/questions/35516483/cookies-must-be-enabled-in-your-browser-python-requests)
 
 [StackOverFlow - Soap Sample]: <https://stackoverflow.com/questions/15569330/making-a-soap-request-using-python-requests-module/26907113>
 
